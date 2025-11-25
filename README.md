@@ -510,7 +510,7 @@ public class LMSApp {
     // ---- INSTRUCTOR DASHBOARD ----
     private static void instructorDashboard(User instructor) {
         while (true) {
-            System.out.println("\n===== uctor Dashboard (" + instructor.name + ") =====");
+            System.out.println("\n===== instructor Dashboard (" + instructor.name + ") =====");
             System.out.println("1. Manage My Courses");
             System.out.println("2. Assignment Grading");
             System.out.println("3. Student Performance");
